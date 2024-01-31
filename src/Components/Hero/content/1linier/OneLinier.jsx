@@ -5,11 +5,16 @@ import CircleState from "./assets/CircleState.jsx";
 function OneLinier() {
   return (
     <>
+    {/* linier 1 */}
       <div className="one-linier-container">
-        <div className="one-linier flex">
-          <CircleYellow></CircleYellow>
+        <div className="one-linier gap-5 flex">
+          <div className="mt-24 -mr-3">
+            <CircleYellow></CircleYellow>
+          </div>
           <Cardglasshmorp></Cardglasshmorp>
-          <CircleState></CircleState>
+          <div className="mt-24 -ml-14">
+            <CircleState></CircleState>
+          </div>
         </div>
       </div>
     </>
