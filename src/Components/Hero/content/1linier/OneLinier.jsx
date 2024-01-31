@@ -8,7 +8,7 @@ function OneLinier() {
     {/* linier 1 */}
       <div className="one-linier-container">
         <div className="one-linier gap-5 flex">
-          <div className="mt-24 -mr-3">
+          <div className="mt-24 ml-10">
             <CircleYellow></CircleYellow>
           </div>
           <Cardglasshmorp></Cardglasshmorp>
