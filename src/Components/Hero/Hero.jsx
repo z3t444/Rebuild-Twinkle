@@ -5,7 +5,7 @@ import LinierContent from './content/1linier/OneLinier.jsx'
 
 function Hero() {
   return (
-    <div className="for-hero">
+    <div className="for-hero flex justify-between">
       <div className="left">
         <div className="flex gap-3 items-center">
           <div className="p-2 border border-gray-900 rounded-full">
