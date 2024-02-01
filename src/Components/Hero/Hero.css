@@ -1,3 +1,11 @@
 .for-hero {
     position: relative;
 }
+
+.wrapper-card {
+    box-shadow: rgb(0, 183, 255);
+}
+
+.circle-dot {
+    backdrop-filter: blur(60%);
+}

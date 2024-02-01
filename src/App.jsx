@@ -5,7 +5,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="RootSection InterTight w-[1500px] mt-16 mx-auto">
+    <div className="RootSection InterTight w-[1450px] mt-12 mx-auto">
       <RootHeader></RootHeader>
       <RootHero></RootHero>
     </div>

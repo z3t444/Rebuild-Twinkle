@@ -2,3 +2,8 @@
     backdrop-filter: blur(60%);
     box-shadow: 0 4px 10px rgba(56, 56, 56, 0.1);
 }
+
+.wrapper-card {
+    width: 190px;
+    box-shadow: 1px 1px 50px rgb(0, 174, 255);
+}
