@@ -23,7 +23,7 @@ function Hero() {
             <p className="font-normal text-lg text-gray-400">in every beginning. there is chaos.</p>
           </div>
           <div>
-            <h3 className="text-[90px] mt-10 text-[#061326] font-bold leading-[110px]">
+            <h3 className="text-[80px] mt-10 text-[#061326] font-bold leading-[95px]">
               Peaceful <br />
               shopping. <br />
               mindful money
@@ -34,7 +34,7 @@ function Hero() {
             <div className="for-img hover:scale-95 duration-300">
               <img src={AppStore} alt="" width={150} />
             </div>
-            <div className="for-img hover:scale-95 duration-300">
+            <div className="for-img hover:scale-95 duration-300 ">
               <img src={PlayStore} alt="" width={150} />
             </div>
           </div>
@@ -60,7 +60,7 @@ function Hero() {
             </div>
           </div>
           <div class="h-28 w-28 rounded-full text-center ml-36 -mt-12 bg-white bg-opacity-55 border border-gray-50">
-            <h3 className="text-4xl mt-6">...</h3>
+            <h3 className="text-4xl mt-6 text-white">...</h3>
           </div>
           <div className="for-circle-dolar-bg-blue ml-56 shadow-md shadow-[#28a1b6] -mt-12 h-6 w-6 flex items-center rounded-full p-6 bg-gradient-to-br from-[#90ecff] to-[#28a1b6]">
             <h5 className="font-bold -ml-1 text-md  text-white">$</h5>
