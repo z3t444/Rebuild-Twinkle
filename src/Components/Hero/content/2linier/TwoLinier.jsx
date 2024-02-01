@@ -9,7 +9,7 @@ function TwoLinier() {
         <div className="-mt-16">
           <CardOne></CardOne>
         </div>
-        <div className="mt-14 -ml-40">
+        <div className="mt-10 -ml-40">
           <CardTwo></CardTwo>
         </div>
       </div>

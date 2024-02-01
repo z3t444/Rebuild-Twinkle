@@ -1,0 +1,4 @@
+.card-content {
+    backdrop-filter: blur(60%);
+    box-shadow: 0 4px 10px rgba(56, 56, 56, 0.1);
+}
