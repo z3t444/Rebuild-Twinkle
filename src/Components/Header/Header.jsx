@@ -26,7 +26,7 @@ function Header() {
         <li className="text-gray-500">
           <a href="#">Business</a>
         </li>
-        <button className="px-5 py-3 hover:scale-95 duration-300 border rounded-xl ml-5 border-gray-900">
+        <button className="px-5 py-3 hover:scale-95 duration-300 border rounded-xl ml-5 border-gray-400">
           <a className="font-medium" href="#">
             Get App
           </a>

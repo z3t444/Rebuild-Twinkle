@@ -23,7 +23,7 @@ function Hero() {
             <p className="font-normal text-lg text-gray-400">in every beginning. there is chaos.</p>
           </div>
           <div>
-            <h3 className="text-[80px] mt-10 text-[#061326] font-bold leading-[95px]">
+            <h3 className="text-[80px] mt-12 text-[#061326] font-bold leading-[95px]">
               Peaceful <br />
               shopping. <br />
               mindful money
