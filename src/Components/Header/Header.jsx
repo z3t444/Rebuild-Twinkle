@@ -9,7 +9,7 @@ function Header() {
           <h3 className="text-3xl tracking-tight font-semibold">Twinkle</h3>
           <div className="for-circle-logo flex items-center">
             <div className="red p-4 bg-red-600 rounded-full"></div>
-            <div className="orange p-4   bg-orange-400 -ml-3 opacity-80 rounded-full"></div>
+            <div className="orange p-4 bg-orange-400 -ml-4 opacity-80 rounded-full"></div>
           </div>
         </div>
         <ul className="group=navigation text-lg flex items-center gap-8 text-gray-400 font-normal">
