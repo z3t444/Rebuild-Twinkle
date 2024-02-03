@@ -46,7 +46,7 @@ function Hero() {
       </div>
       <div className="flex justify-center ml-[460px] -mt-32 relative">
         <div className="container-line-3">
-          <div className="wrapper-card bg-white p-5 border hover:scale-105 duration-300 rounded-xl">
+          <div className="wrapper-card relative bg-white p-5 border hover:scale-105 duration-300 rounded-xl">
             <div className="line flex items-center">
               <div className="linetrough h-1 w-10 rounded-full bg-yellow-400"></div>
               <div className="linetrough h-1 w-5 -ml-1 rounded-full bg-orange-400"></div>

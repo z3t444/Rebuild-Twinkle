@@ -7,7 +7,7 @@ function Card() {
         <div className="sim-Icons flex items-center justify-between">
           <div className="for-card-and-name gap-2 flex items-center">
             <Sim></Sim>
-            <h3 className="font-semibold text-gray-800">ACHAM AE</h3>
+            <h3 className="font-semibold text-gray-100">ACHAM AE</h3>
           </div>
           <div className="for-opacity-circle flex items-center">
             <div className="p-5 opacity-60 bg-gray-100 rounded-full"></div>
