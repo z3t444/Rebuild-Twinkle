@@ -7,19 +7,19 @@ import CardLineTwo from "./CardLine2/CardLineTwo.jsx";
 function ContentTwo() {
   return (
     <>
-      <div className="for-blurry-background mt-20">
-        <div className="for-bg-blurry">
-          <div>
-            <div></div>
-            <div></div>
+      <div className="flex justify-center ml-[800px]">
+        <div className="for-blurry-collor mt-32 blur-[120px]">
+          <div className="flex">
+            <div className="p-24 bg-purple-500 rounded-full"></div>
+            <div className="p-24 bg-sky-400 rounded-full"></div>
           </div>
-          <div>
-            <div></div>
-            <div></div>
+          <div className="flex">
+            <div className="p-24 bg-red-500 rounded-full"></div>
+            <div className="p-24 bg-yellow-400 rounded-full"></div>
           </div>
         </div>
       </div>
-      <div className="content2-container flex items-center justify-between">
+      <div className="content2-container -mt-80 flex items-center justify-between">
         <div className="left">
           <div className="ClassName">
             <h3 className="text-5xl font-bold">
