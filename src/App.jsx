@@ -4,6 +4,7 @@ import RootHero from "./Components/Hero/Hero.jsx";
 import Feature from "./Components/CardFeature/Feature.jsx";
 import ContentOne from "./Components/content1/ContentOne.jsx";
 import ContentTwo from "./Components/content2/ContentTwo.jsx";
+import TrustedContent from './Components/Trusted/Trusted.jsx'
 import "./App.css";
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Feature></Feature>
       <ContentOne></ContentOne>
       <ContentTwo></ContentTwo>
+      <TrustedContent></TrustedContent>
     </div>
   );
 }
