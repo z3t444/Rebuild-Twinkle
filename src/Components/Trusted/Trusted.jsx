@@ -18,9 +18,9 @@ function Trusted() {
             </div>
           </div>
         </div>
-        <div className="for-grid-trusted">
-          <div className="line-one">
-            <div className="ClassBoxwhite"></div>
+        <div className="for-grid-trusted -mt-96">
+          <div className="line-one flex">
+            <div className="ClassBoxwhite px-24 py-24 rounded-lg bg-opacity-80 bg-white shadow-md"></div>
             <div className="ClassBoxwhite"></div>
             <div className="ClassBoxwhite"></div>
             <div className="ClassBoxwhite"></div>
