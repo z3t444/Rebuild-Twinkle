@@ -29,8 +29,8 @@ function ContentOne() {
         </div>
         <div className="right xl:w-2/4">
           <h3 className="text-5xl font-bold">3-year warranty boost</h3>
-          <p className="mt-12 text-base leading-7 text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci modi nesciunt et quod. Dolorum adipisci quis sint. Id natus laboriosam similique eos ad iusto, veniam rem Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque molestias, est dicta tenetur cum quam?</p>
-          <p className="text-base mt-5 leading-7 text-gray-400">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti quas excepturi, perferendis ipsa autem vitae sit rerum laudantium temporibus! Illo laborum recusandae quod unde reprehenderit! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque, nostrum.</p>
+          <p className="mt-12 text-lg leading-7 text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci modi nesciunt et quod. Dolorum adipisci quis sint. Id natus laboriosam similique eos ad iusto, veniam rem Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque molestias, est dicta tenetur cum quam?</p>
+          <p className="text-lg mt-5 leading-7 text-gray-400">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti quas excepturi, perferendis ipsa autem vitae sit rerum laudantium temporibus! Illo laborum recusandae quod unde reprehenderit! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque, nostrum.</p>
         </div>
       </div>
     </>

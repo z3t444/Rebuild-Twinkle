@@ -25,12 +25,12 @@ function ContentTwo() {
             <h3 className="text-5xl font-bold">
               Twin shopping mastercard <span className="text-md">®</span>
             </h3>
-            <p className="text-base mt-9 leading-7 text-gray-400">
+            <p className="text-lg mt-9 leading-7 text-gray-400">
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum, facere ex neque, <br />
               laudantium nobis exercitationem ipsam aperiam inventore labore, recusandae <br />
               corrupti quasi remrepellendus illum provident{" "}
             </p>
-            <p className="text-base mt-5 leading-7 text-gray-400 xl:w-2/3">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis vitae aut error porro non. Fugiat.</p>
+            <p className="text-lg mt-5 leading-7 text-gray-400 xl:w-2/3">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis vitae aut error porro non. Fugiat.</p>
           </div>
           <div className="for-button-execution-payment gap-5 mt-9 flex items-center">
             <div className="google-payment p-2 hover:scale-95 duration-300 px-4 flex items-center rounded-2xl gap-2 bg-gradient-to-tl from-[#0d44a8] to-[#004ece]">

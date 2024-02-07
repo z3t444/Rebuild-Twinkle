@@ -4,6 +4,10 @@ import PlayStore from "./asset/PlayStoreBanner.png";
 import LinierContent from "./content/1linier/OneLinier.jsx";
 import TwoLinierContent from "../Hero/content/2linier/TwoLinier.jsx";
 import BlurryBackground from "./asset/BlurryBackground.jsx";
+import AOS from 'aos';
+import 'aos/dist/aos.css'; // You can also use <link> for styles
+// ..
+AOS.init();
 
 // for css
 import "../Hero/Hero.css";
