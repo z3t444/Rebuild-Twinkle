@@ -11,7 +11,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <div className="RootSection InterTight w-[1400px] mt-12 mx-auto hidden md:hidden lg:hidden xl:block">
+      <div className="RootSection InterTight w-[1400px] mt-12 mx-auto hidden md:hidden lg:block xl:block">
         <RootHeader></RootHeader>
         <RootHero></RootHero>
         <Feature></Feature>
