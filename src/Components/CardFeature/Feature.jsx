@@ -7,7 +7,7 @@ import Apple from "./asset/Apple.svg";
 function Feature() {
   return (
     <>
-      <div className="flex mt-32 gap-8 justify-evenly">
+      <div className="flex mt-32 gap-8 justify-center">
         <div className="card-feature p-6 rounded-[35px] hover:-mt-5 duration-300 shadow-2xl shadow-sky-300 h-60 w-52 bg-gradient-to-br from-[#91edff] to-[#07b9df]">
           <img src={VIcons} alt="v icons" width={50} />
           <h3 className="text-lg font-medium leading-6 text-white mt-7 w-40">Multicurrency account</h3>
