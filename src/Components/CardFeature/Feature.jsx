@@ -1,7 +1,7 @@
 import CardXml from "./asset/Card.svg";
 import VIcons from "./asset/V.svg";
 import DollarChange from "./asset/DollarChange.svg";
-import GoogleIcons from "./asset/google.svg";
+import GoogleIcons from "./asset/Google.svg";
 import Apple from "./asset/Apple.svg";
 
 function Feature() {
