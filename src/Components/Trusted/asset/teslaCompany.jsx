@@ -2,7 +2,7 @@ function teslaCompany() {
   return (
     <>
       <div>
-        <svg class="h-5 mt-1 text-gray-500 fill-current dark:text-gray-300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 278.7 36.3">
+        <svg class="h-5 mt-1  fill-current text-gray-800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 278.7 36.3">
           <g>
             <path
               class="st0"

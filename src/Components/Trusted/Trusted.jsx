@@ -24,7 +24,7 @@ function Trusted() {
             </div>
           </div>
         </div>
-        <div className="line-one -mt-[200px]">
+        <div className="line-one -mt-[200px] relative">
           <div class=" h-[430px] xl:h-52 rounded-3xl mx-auto mt-7">
             <div class="flex-row md:flex lg:flex-row xl:flex xl:justify-center xl:gap-28 grid-cols-2 gap-8 md:grid-cols-6 lg:grid-cols-5">
               <div class="flex items-center justify-center col-span-1 md:col-span-2 lg:col-span-1">
