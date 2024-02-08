@@ -28,3 +28,10 @@ Your app is ready to be deployed!
 ## Deployment
 
 Learn more about deploying your application with the [documentations](https://vitejs.dev/guide/static-deploy.html)
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Zeeta/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/zzz_3t44/)](https://www.instagram.com/zzz_3t44)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ebdtv4@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://nusdeveloper.netlify.app)](https://nusdeveloper.netlify.app)
+[![Github](https://img.shields.io/github/followers/z3t444?label=Follow&style=social)](https://github.com/z3t444)
