@@ -46,7 +46,7 @@
 
 clone this repository
 ```sh
-https://github.com/z3t444/Rebuild-Kartukredit-site.git
+https://github.com/z3t444/Rebuild-Twinkle.git
 ```
 install Automatic
 ```sh
